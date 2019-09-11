@@ -20,6 +20,8 @@ namespace Test_DataBase.Entities
 
         public virtual DbSet<UserProfile> UserProfile { get; set; }
         public virtual DbSet<Sex> Sex { get; set; }
+
+        // add  Branch
         
         // public virtual DbSet<UserProfile> ClientProfiles { get; set; }
 

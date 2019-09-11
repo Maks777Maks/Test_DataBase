@@ -13,6 +13,5 @@ namespace Test_DataBase.Entities
         //public virtual BrokerProfile BrokerProfile { get; set; }
         //public virtual AdminProfile AdminProfile { get; set; }
         //public virtual UserAccessLock UserAccessLock { get; set; }   
-        //sdsds
     }
 }
